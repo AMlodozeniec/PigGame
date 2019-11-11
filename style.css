@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(73, 167, 255, 0.5), rgba(12, 49, 173, 0.5)), url(img/back.jpg);
+    background-image: linear-gradient(rgba(73, 167, 255, 0.5), rgba(12, 49, 173, 0.5)), url(img/back.jpg); 
     background-size: cover;
     background-position: center;
     font-family: Lato;
